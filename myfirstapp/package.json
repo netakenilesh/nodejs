@@ -1,0 +1,20 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "My first app using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "login",
+    "system"
+  ],
+  "author": "Nilesh Netake",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
